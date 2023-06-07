@@ -15,5 +15,5 @@ def divide(a, b):
 
 result = divide(10, 3)
 
-print(result)   # Выведет: 3.3333333333333335
-print(type(result))   # Выведет: <class 'float'>
+print(result)   
+print(type(result))   
